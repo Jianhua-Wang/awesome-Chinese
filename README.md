@@ -22,6 +22,7 @@ A curated list of resources for learning Chinese/Mandarin, inspired by awesome l
 - [Duolingo Chinese](https://www.duolingo.com/course/zh/en/Learn-Chinese) [B] [F] — Gamified basics and daily practice.
 - [LingoDeer](https://www.lingodeer.com/) [B–I] [$] — Structured lessons with grammar focus.
 - [ChineseSkill](https://www.chineseskill.com/) [B] [F] — Beginner-friendly courses and practice.
+- [Constructing Language Mandarin Practice](https://constructinglanguage.com/exercises/mandarin-tones-practice) [B] [F] — Free tone, measure word, aspect marker, and HSK 1 grammar exercises with linked browser games.
 - [TypingMandarin](https://www.typingmandarin.com/) [B–A] [F] — Dictation, typing challenges, and atomic writing exercises.
 - [Skritter](https://skritter.com/) [B–A] [$] — Character writing and spaced repetition for Hanzi.
 - [Yoyo Chinese](https://yoyochinese.com/) [B–A] [$] — Video-based curriculum emphasizing real-life usage.
