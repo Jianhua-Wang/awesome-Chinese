@@ -58,3 +58,5 @@ A curated list of resources for learning Chinese/Mandarin, inspired by awesome l
 - [Reddit r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/) [B–A] [F] — Q&A, resources, study tips.
 - [Chinese Forums](https://www.chinese-forums.com/) [B–A] [F] — Long-form discussions and logs.
 - [WeChat Groups / Discords](https://discord.com/invite/chinese) [B–A] [F] — Language exchanges and challenges (e.g., #100DaysOfMandarin).
+## Tools for Pronunciation & Speech
+- [NihaoLearn](https://nihaolearn.com/pinyin/tone-trainer) [B–A] [F] — Free browser-based tone trainer: record a syllable and compare your pitch curve with a reference contour; words and sentences are scored against recorded audio, with no signup.
