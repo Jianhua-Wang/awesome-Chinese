@@ -47,6 +47,7 @@ A curated list of resources for learning Chinese/Mandarin, inspired by awesome l
 ## Typing, Writing & Calligraphy
 - [Skritter](https://skritter.com/) [B–A] [$] — Stroke order, handwriting practice, retention.
 - [TypingMandarin](https://www.typingmandarin.com/) [B–A] [F] — Pinyin/zhuyin typing drills and dictation.
+- [MandarinReps](https://mandarinreps.com/chinese-typing-practice) [B–I] [F] — Complete-sentence Mandarin typing practice with Pinyin IME feedback.
 - [Make Me a Hanzi](https://www.skishore.me/makemeahanzi/) / [AnimCJK](https://github.com/parsimonhi/animCJK) [B–A] [F] — Stroke animations and decomposition.
 ## SRS & Flashcards
 - [Anki](https://apps.ankiweb.net/) [B–A] [F] — Spaced repetition for vocab and characters.
