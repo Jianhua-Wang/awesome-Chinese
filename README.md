@@ -26,6 +26,7 @@ A curated list of resources for learning Chinese/Mandarin, inspired by awesome l
 - [Skritter](https://skritter.com/) [B–A] [$] — Character writing and spaced repetition for Hanzi.
 - [Yoyo Chinese](https://yoyochinese.com/) [B–A] [$] — Video-based curriculum emphasizing real-life usage.
 - [ChinesePod](https://chinesepod.com/) [B–A] [$] — Podcast lessons with transcripts and exercises.
+- [SubChinese](https://subchinese.com/) [I–A] [F] — Turns a Chinese video into pinyin subtitles with an English line and a clickable dictionary.
 ## Textbooks & Graded Readers
 - [Integrated Chinese](https://www.cheng-tsui.com/browse/integrated-chinese) (Cheng & Tsui) [B–I] [$] — Widely used course with workbook and audio.
 - [New Practical Chinese Reader](https://www.blcup.com/) [B–I] [$] — Classic series with dialogues and exercises.
