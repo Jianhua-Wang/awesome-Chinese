@@ -36,6 +36,7 @@ A curated list of resources for learning Chinese/Mandarin, inspired by awesome l
 - [Pleco](https://www.pleco.com/) [B–A] [F] — Mobile dictionary with OCR, handwriting, example sentences.
 - [Hanping Dictionary](https://www.hanpingchinese.com/) [B–A] [F] — Android dictionary with tone colors and audio.
 - [MDBG](https://www.mdbg.net/) / [LINE Dict](https://dict.naver.com/linedict/zhendict/dict.html) / [YellowBridge](https://www.yellowbridge.com/chinese/dictionary.php) [B–A] [F] — Web dictionaries and character etymology.
+- [Chinese Culture Glossary](https://chinesefortunetools.com/chinese-culture-glossary/) [I–A] — Search Chinese cultural terms with pinyin, English meanings, and usage notes.
 ## Audio & Video
 - [Yoyo Chinese YouTube](https://www.youtube.com/@YoyoChinese) [B–A] [F] — Free videos complementing courses.
 - [Slow Chinese](https://www.slowchinese.net/) / [ChinesePod Podcasts](https://chinesepod.com/podcasts) [B–A] [F] — Levelled listening practice.
